@@ -1,6 +1,6 @@
-I realized that I have never actively rated any movie on Netflix or Amazon Prime. Maybe, that's the reason why the recommendations are not upto the mark ? Using only the watched movies and my profile data, the recommender system probably only suggests similar movies based on some norm. 
+I realized that I have never actively rated any movie on Netflix or Amazon Prime. Maybe, that's the reason why the recommendations are not upto the mark ? My watched movies and profile information is probably not enough data for the recommender to make good suggestions.
 
-Instead of actively rating the movies on netflix and thanks to Andrew Ng's tutorial on recommender systems, I built a recommender system to suggest me movies based on my tastes. The two main approaches are briefly described below and can be looked up in the notebooks.
+Instead of actively rating the movies on Netflix and thanks to Andrew Ng's tutorial on recommender systems, I built myself a movie recommender system to suggest me movies based on my tastes. The two main approaches are briefly described below and can be looked up in the notebooks.
 
 ## Collaborative Filtering
 
